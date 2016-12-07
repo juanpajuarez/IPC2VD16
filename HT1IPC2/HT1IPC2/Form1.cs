@@ -12,7 +12,8 @@ namespace HT1IPC2
 {
     public partial class Form1 : Form
     {
-        public static string resultado;       
+        public static string resultado;
+        public static int contador;   
         public Form1()
         {
             InitializeComponent();
@@ -45,6 +46,25 @@ namespace HT1IPC2
             
             return resultado;
         }
+        public static string mayusculas(string palabra1, string palabra2)
+        {
+            foreach (char letra in palabra1)
+            {
+                if (char.IsUpper(letra))
+                {
+                    contador++;
+                }
+            }
+            foreach (char letra in palabra2)
+            {
+                if (char.IsUpper(letra))
+                {
+                    contador++;
+                }
+            }
+            resultado = "Las palabras tienen un total de "+contador.ToString()+" palabras en mayuscula.";
+            return resultado;
+        }
 
         private void button2_Click(object sender, EventArgs e)
         {
@@ -55,6 +75,12 @@ namespace HT1IPC2
         private void button3_Click(object sender, EventArgs e)
         {
             
+        }
+
+        private void button3_Click_1(object sender, EventArgs e)
+        {
+            mayusculas(richTextBox2.Text, richTextBox1.Text);
+            richTextBox3.Text = resultado;
         }
     }
     
