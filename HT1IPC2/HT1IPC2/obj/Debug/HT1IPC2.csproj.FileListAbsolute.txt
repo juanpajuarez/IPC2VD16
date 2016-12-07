@@ -1,0 +1,9 @@
+c:\users\juanpa\documents\visual studio 2015\Projects\HT1IPC2\HT1IPC2\bin\Debug\HT1IPC2.exe.config
+C:\Users\Juanpa\documents\visual studio 2015\Projects\HT1IPC2\HT1IPC2\bin\Debug\HT1IPC2.exe
+C:\Users\Juanpa\documents\visual studio 2015\Projects\HT1IPC2\HT1IPC2\bin\Debug\HT1IPC2.pdb
+C:\Users\Juanpa\documents\visual studio 2015\Projects\HT1IPC2\HT1IPC2\obj\Debug\HT1IPC2.csprojResolveAssemblyReference.cache
+C:\Users\Juanpa\documents\visual studio 2015\Projects\HT1IPC2\HT1IPC2\obj\Debug\HT1IPC2.Form1.resources
+C:\Users\Juanpa\documents\visual studio 2015\Projects\HT1IPC2\HT1IPC2\obj\Debug\HT1IPC2.Properties.Resources.resources
+C:\Users\Juanpa\documents\visual studio 2015\Projects\HT1IPC2\HT1IPC2\obj\Debug\HT1IPC2.csproj.GenerateResource.Cache
+C:\Users\Juanpa\documents\visual studio 2015\Projects\HT1IPC2\HT1IPC2\obj\Debug\HT1IPC2.exe
+C:\Users\Juanpa\documents\visual studio 2015\Projects\HT1IPC2\HT1IPC2\obj\Debug\HT1IPC2.pdb
