@@ -64,7 +64,7 @@ namespace HT1IPC2
                     contador++;
                 }
             }
-            resultado = "Las palabras tienen un total de "+contador.ToString()+" palabras en mayuscula.";
+            resultado = "Las palabras tienen un total de "+contador.ToString()+" palabras en mayuscula._201503869";
             return resultado;
         }
         public static string vocales(string palabra1, string palabra2)
