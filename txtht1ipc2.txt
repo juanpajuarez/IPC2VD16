@@ -1,0 +1,18 @@
+1. ¿Qué entiende como "commit"?
+
+Guardar de manera local un avance 
+que haga el desarrollador en el proyecto.
+
+
+2. ¿Qué entiende como "merge"?
+
+Unir dos ramas diferentes. Fusionarlas.
+
+
+
+3. ¿Cuál es la diferencia entre "Pull" y "Push"?
+
+Pull es para descargar lo que otros colaboradores
+han trabajado, mientras que push es para subir
+los avances que has hecho, para dejarlos a
+disposicion de los demas colaboradores.
